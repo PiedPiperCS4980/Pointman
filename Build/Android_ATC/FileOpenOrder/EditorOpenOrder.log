@@ -468,125 +468,449 @@
 "../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 468
 "../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 469
 "../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Intermediate/CachedAssetRegistry.bin" 470
-"../../../Engine/Config/HTML5/HTML5Engine.ini" 471
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 472
-"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" 473
-"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" 474
-"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset" 475
-"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Animations/FirstPerson_Idle.uasset" 476
-"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset" 477
-"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Animations/FirstPerson_JumpEnd.uasset" 478
-"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Animations/FirstPerson_JumpLoop.uasset" 479
-"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Animations/FirstPerson_JumpStart.uasset" 480
-"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Animations/FirstPerson_Run.uasset" 481
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 482
-"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Animations/FirstPersonFire_Montage.uasset" 483
-"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Animations/FirstPerson_Fire.uasset" 484
-"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset" 485
-"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset" 486
-"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset" 487
-"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Meshes/BaseMaterial.uasset" 488
-"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/HUD.uasset" 489
-"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun.uasset" 490
-"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/FPWeapon/Materials/M_FPGun.uasset" 491
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 492
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 493
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 494
-"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 495
-"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 496
-"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 497
-"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 498
-"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset" 499
-"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 500
-"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 501
-"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 502
-"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/FPWeapon/Textures/T_FPGun_M.uasset" 503
-"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/FPWeapon/Textures/T_FPGun_N.uasset" 504
-"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset" 505
-"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset" 506
-"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uasset" 507
-"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 508
-"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 509
-"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 510
-"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 511
-"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 512
-"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset" 513
-"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 514
-"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 515
-"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 516
-"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.uasset" 517
-"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 518
-"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset" 519
-"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset" 520
-"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset" 521
-"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Textures/FirstPersonCrosshair.uasset" 522
-"C:/Users/Matthew/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/6/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_C418824E4EA51B7ABCD164BCEEBBFBB__02FD0742DF20FAEDB6B6FB9500594A1EDA8BE59C.udd" 523
-"C:/Users/Matthew/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/6/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_C418824E4EA51B7AB__369545BFB03A089F176AE1871AF20CCFA46A288B.udd" 524
-"../../../Engine/Content/EditorResources/BSPVertex.uasset" 525
-"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 526
-"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 527
-"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 528
-"../../../Engine/Content/EditorMaterials/PhAT_JointLimitMaterial.uasset" 529
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 530
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 531
-"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 532
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 533
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 534
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 535
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 536
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 537
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 538
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 539
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 540
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 541
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 542
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_Editor_Preferences_General_40x.uasset" 543
-"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DSprite_TutorialIcon.uasset" 544
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_ShowSkeletalMeshes_40x.uasset" 545
-"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 546
-"../../../Engine/Content/Tutorial/Foliage/TutorialAssets/Foliage.uasset" 547
-"../../../Engine/Content/Tutorial/SubEditors/StaticMeshEditorTutorial.uasset" 548
-"../../../Engine/Content/EngineMeshes/Cube.uasset" 549
-"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 550
-"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintMacroLibrariesEditorOverview.uasset" 551
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintMacroLibrary_64x.uasset" 552
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_MacroLib.uasset" 553
-"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintInterfacesEditorOverview.uasset" 554
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintInterface_64x.uasset" 555
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface.uasset" 556
-"../../../Engine/Content/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview.uasset" 557
-"../../../Engine/Content/Tutorial/SubEditors/DestructibleMeshEditorTutorial.uasset" 558
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Tutorial_DM.uasset" 559
-"../../../Engine/Content/EditorMeshes/EditorCube.uasset" 560
-"../../../Engine/Content/Tutorial/SubEditors/MaterialEditorTutorial.uasset" 561
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 562
-"../../../Engine/Content/Tutorial/SubEditors/ParticleSystemEditorTutorial.uasset" 563
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset" 564
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset" 565
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_SmokeSubUV_8X8.uasset" 566
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_soft_smoke.uasset" 567
-"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimEditorWalkThrough.uasset" 568
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/NewBlendSpace1D.uasset" 569
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/Tutorial_Idle.uasset" 570
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset" 571
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/Tutorial_Walk_Fwd.uasset" 572
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset" 573
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Mat.uasset" 574
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_PhysicsAsset.uasset" 575
-"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimBlueprintEditorWalkthrough.uasset" 576
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_AnimBlueprint.uasset" 577
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialCharacter.uasset" 578
-"../../../Engine/Content/Tutorial/Paper2D/SpriteEditorTutorial.uasset" 579
-"../../../Engine/Content/Tutorial/Paper2D/FlipbookEditorTutorial.uasset" 580
-"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DFlipbook_TutorialIcon.uasset" 581
-"../../../Engine/Content/Tutorial/Landscape/Landscape_Manage_Mode.uasset" 582
-"../../../Engine/Content/Tutorial/Landscape/Landscape_Sculpt_Mode.uasset" 583
-"../../../Engine/Content/Tutorial/Landscape/Landscape_Painting_Mode.uasset" 584
-"../../../Engine/Content/Tutorial/Foliage/Foliage_Intro_Tutorial.uasset" 585
-"../../../Engine/Content/Tutorial/Foliage/Foliage_Using_The_Tool_Tutorial.uasset" 586
-"../../../Engine/Content/Tutorial/Foliage/Foliage_Settings_Tutorial.uasset" 587
-"C:/Users/Matthew/AppData/Local/Temp/UnrealShaderWorkingDir/2B6F0CFE43BA51672C58DE9BBA47CEB4/4/WorkerOutputOnly.out" 588
-"C:/Users/Matthew/AppData/Local/Temp/UnrealShaderWorkingDir/2B6F0CFE43BA51672C58DE9BBA47CEB4/3/WorkerOutputOnly.out" 589
-"C:/Users/Matthew/AppData/Local/Temp/UnrealShaderWorkingDir/2B6F0CFE43BA51672C58DE9BBA47CEB4/2/WorkerOutputOnly.out" 590
-"C:/Users/Matthew/AppData/Local/Temp/UnrealShaderWorkingDir/2B6F0CFE43BA51672C58DE9BBA47CEB4/1/WorkerOutputOnly.out" 591
-"C:/Users/Matthew/AppData/Local/Temp/UnrealShaderWorkingDir/2B6F0CFE43BA51672C58DE9BBA47CEB4/0/WorkerOutputOnly.out" 592
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Textures/Pointman_Missile_Prototype_1.uasset" 471
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Textures/Pointman_Missile_Prototype_1_outUV.uasset" 472
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Saved/Autosaves/Game/FirstPersonBP/Maps/UEDPCFirstPersonExampleMap.umap" 473
+"C:/Users/Matthew/Documents/Unreal Projects/Pointman/Saved/Cooked/Android_ATC/Pointman/CookedIniVersion.txt" 474
+"../../../Engine/Config/HTML5/HTML5Engine.ini" 475
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 476
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" 477
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" 478
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset" 479
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Animations/FirstPerson_Idle.uasset" 480
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset" 481
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Animations/FirstPerson_JumpEnd.uasset" 482
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Animations/FirstPerson_JumpLoop.uasset" 483
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Animations/FirstPerson_JumpStart.uasset" 484
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Animations/FirstPerson_Run.uasset" 485
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 486
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Animations/FirstPersonFire_Montage.uasset" 487
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Animations/FirstPerson_Fire.uasset" 488
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset" 489
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset" 490
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset" 491
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Meshes/BaseMaterial.uasset" 492
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/HUD.uasset" 493
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun.uasset" 494
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/FPWeapon/Materials/M_FPGun.uasset" 495
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 496
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 497
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 498
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 499
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 500
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 501
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 502
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset" 503
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 504
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 505
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 506
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/FPWeapon/Textures/T_FPGun_M.uasset" 507
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/FPWeapon/Textures/T_FPGun_N.uasset" 508
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset" 509
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset" 510
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uasset" 511
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 512
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 513
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 514
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 515
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 516
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset" 517
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 518
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 519
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 520
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.uasset" 521
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 522
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset" 523
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset" 524
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset" 525
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Textures/FirstPersonCrosshair.uasset" 526
+"C:/Users/Matthew/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/6/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_C418824E4EA51B7ABCD164BCEEBBFBB__02FD0742DF20FAEDB6B6FB9500594A1EDA8BE59C.udd" 527
+"C:/Users/Matthew/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/6/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_C418824E4EA51B7AB__369545BFB03A089F176AE1871AF20CCFA46A288B.udd" 528
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 529
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 530
+"C:/Users/Matthew/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/0/MATSM_984AFA3849534FAA8491540B994BD32E_GLSL_ES2_3857__BC5N_DEV_SL_NODBUFE7AF19__7A09DFD624489F862CA8B6CF7E7DF31D927AB329.udd" 531
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 532
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 533
+"C:/Users/Matthew/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/4/MATSM_984AFA3849534FAA8491540B994BD32E_GLSL_ES2_3857__BC5N_DEV_SL_NODBUF32DBCB__6FDECC22E8544E9F7B78568E43D2CD65967340A4.udd" 534
+"../../../Engine/Content/EditorMaterials/PhAT_JointLimitMaterial.uasset" 535
+"C:/Users/Matthew/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/8/2/MATSM_984AFA3849534FAA8491540B994BD32E_GLSL_ES2_3857__BC5N_DEV_SL_NODBUFCA0E6D__4928FB42B0E77D16B7391CEC7447D388FDD65C90.udd" 536
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 537
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 538
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 539
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 540
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 541
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 542
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 543
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 544
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 545
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 546
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 547
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 548
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 549
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_Editor_Preferences_General_40x.uasset" 550
+"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DSprite_TutorialIcon.uasset" 551
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_ShowSkeletalMeshes_40x.uasset" 552
+"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 553
+"../../../Engine/Content/Tutorial/Foliage/TutorialAssets/Foliage.uasset" 554
+"../../../Engine/Content/Tutorial/SubEditors/StaticMeshEditorTutorial.uasset" 555
+"../../../Engine/Content/EngineMeshes/Cube.uasset" 556
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 557
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintMacroLibrariesEditorOverview.uasset" 558
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintMacroLibrary_64x.uasset" 559
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_MacroLib.uasset" 560
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintInterfacesEditorOverview.uasset" 561
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintInterface_64x.uasset" 562
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface.uasset" 563
+"../../../Engine/Content/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview.uasset" 564
+"../../../Engine/Content/Tutorial/SubEditors/DestructibleMeshEditorTutorial.uasset" 565
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Tutorial_DM.uasset" 566
+"../../../Engine/Content/EditorMeshes/EditorCube.uasset" 567
+"../../../Engine/Content/Tutorial/SubEditors/MaterialEditorTutorial.uasset" 568
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 569
+"../../../Engine/Content/Tutorial/SubEditors/ParticleSystemEditorTutorial.uasset" 570
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset" 571
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset" 572
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_SmokeSubUV_8X8.uasset" 573
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_soft_smoke.uasset" 574
+"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimEditorWalkThrough.uasset" 575
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/NewBlendSpace1D.uasset" 576
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/Tutorial_Idle.uasset" 577
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset" 578
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/Tutorial_Walk_Fwd.uasset" 579
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset" 580
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Mat.uasset" 581
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_PhysicsAsset.uasset" 582
+"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimBlueprintEditorWalkthrough.uasset" 583
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_AnimBlueprint.uasset" 584
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialCharacter.uasset" 585
+"../../../Engine/Content/Tutorial/Paper2D/SpriteEditorTutorial.uasset" 586
+"../../../Engine/Content/Tutorial/Paper2D/FlipbookEditorTutorial.uasset" 587
+"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DFlipbook_TutorialIcon.uasset" 588
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Manage_Mode.uasset" 589
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Sculpt_Mode.uasset" 590
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Painting_Mode.uasset" 591
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Intro_Tutorial.uasset" 592
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Using_The_Tool_Tutorial.uasset" 593
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Settings_Tutorial.uasset" 594
+"C:/Users/Matthew/AppData/Local/Temp/UnrealShaderWorkingDir/18872ECD4E9B46EB6009B9A854517F1E/3/WorkerOutputOnly.out" 595
+"C:/Users/Matthew/AppData/Local/Temp/UnrealShaderWorkingDir/18872ECD4E9B46EB6009B9A854517F1E/0/WorkerOutputOnly.out" 596
+"C:/Users/Matthew/AppData/Local/Temp/UnrealShaderWorkingDir/18872ECD4E9B46EB6009B9A854517F1E/2/WorkerOutputOnly.out" 597
+"C:/Users/Matthew/AppData/Local/Temp/UnrealShaderWorkingDir/18872ECD4E9B46EB6009B9A854517F1E/4/WorkerOutputOnly.out" 598
+"C:/Users/Matthew/AppData/Local/Temp/UnrealShaderWorkingDir/18872ECD4E9B46EB6009B9A854517F1E/1/WorkerOutputOnly.out" 599
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 600
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 601
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Particles/Materials/M_Burst.uasset" 602
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Burst_M.uasset" 603
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 604
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 605
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 606
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 607
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 608
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 609
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Checker_Noise_M.uasset" 610
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Metal_Rust_D.uasset" 611
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Props/SM_PillarFrame.uasset" 612
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Props/Materials/M_Frame.uasset" 613
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Frame_M.uasset" 614
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Frame_N.uasset" 615
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Props/SM_MatPreviewMesh_02.uasset" 616
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Props/Materials/M_MaterialSphere.uasset" 617
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 618
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Props/SM_Lamp_Wall.uasset" 619
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Props/Materials/M_Lamp.uasset" 620
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Lamp_M.uasset" 621
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Lamp_N.uasset" 622
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Props/SM_Lamp_Ceiling.uasset" 623
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Props/SM_GlassWindow.uasset" 624
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Materials/M_Glass.uasset" 625
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Props/SM_DoorFrame.uasset" 626
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Props/SM_Door.uasset" 627
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Props/Materials/M_Door.uasset" 628
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Door_M.uasset" 629
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Door_N.uasset" 630
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Props/SM_Couch.uasset" 631
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Props/Materials/M_Chair.uasset" 632
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Chair_M.uasset" 633
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Chair_N.uasset" 634
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Props/SM_CornerFrame.uasset" 635
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Props/SM_Chair.uasset" 636
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Props/SM_Bush.uasset" 637
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Props/Materials/M_Bush.uasset" 638
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Bush_D.uasset" 639
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Bush_N.uasset" 640
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Props/MaterialSphere.uasset" 641
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Particles/Materials/M_Spark.uasset" 642
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Spark_Core.uasset" 643
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Architecture/Wall_Door_400x400.uasset" 644
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Materials/M_Basic_Wall.uasset" 645
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Architecture/Wall_Door_400x300.uasset" 646
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Architecture/Wall_500x500.uasset" 647
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Architecture/Wall_400x400.uasset" 648
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Architecture/Wall_400x300.uasset" 649
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Architecture/Wall_400x200.uasset" 650
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Architecture/Pillar_50x500.uasset" 651
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Architecture/Floor_400x400.uasset" 652
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Materials/M_Basic_Floor.uasset" 653
+"C:/Users/Matthew/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/0/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_D7C88116466743AF11859D873D58725__61B6135380B8124AC969D3A89D5751A0E971A27B.udd" 654
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/Geometry/Meshes/TemplateFloor.uasset" 655
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/Geometry/Meshes/CubeMaterial.uasset" 656
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Audio/Explosion_Cue.uasset" 657
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Audio/Explosion01.uasset" 658
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Audio/Explosion02.uasset" 659
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Audio/Collapse_Cue.uasset" 660
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Audio/Collapse01.uasset" 661
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Audio/Collapse02.uasset" 662
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Architecture/Wall_Window_400x400.uasset" 663
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Architecture/Wall_Window_400x300.uasset" 664
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 665
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/Geometry/Meshes/1M_Cube.uasset" 666
+"C:/Users/Matthew/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/5/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_FFE5BEDB41C40A2C044126858EE0FDE__714C0078C7860EC073814244A83FF8E787F879D0.udd" 667
+"C:/Users/Matthew/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/6/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_FFE5BEDB41C40A2C0__09FE23ADD471C17E438AA5BAB87AD783E6FEA721.udd" 668
+"C:/Users/Matthew/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/3/MATSM_984AFA3849534FAA8491540B994BD32E_GLSL_ES2_3857__BC5N_DEV_SL_NODBUFD269F7__CDC07B609CA0F534C4C9AB95BF6C67B3983FD8C2.udd" 669
+"C:/Users/Matthew/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/5/2/MATSM_984AFA3849534FAA8491540B994BD32E_GLSL_ES2_3857__BC5N_DEV_SL_NODBUF999638__9BF8155AB3912D58C0B54F2083FE280FE20CCFA4.udd" 670
+"C:/Users/Matthew/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/4/MATSM_984AFA3849534FAA8491540B994BD32E_GLSL_ES2_3857__BC5N_DEV_SL_NODBUFF40BAA__A79BC9A6A773943D2EA75F83E893070943B23959.udd" 671
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPersonBP/FirstPersonOverview.uasset" 672
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Audio/Steam01_Cue.uasset" 673
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Audio/Steam01.uasset" 674
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Audio/Starter_Wind06.uasset" 675
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Audio/Starter_Wind05.uasset" 676
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Audio/Starter_Music_Cue.uasset" 677
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Audio/Starter_Music01.uasset" 678
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Audio/Starter_Birds01.uasset" 679
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Audio/Starter_Background_Cue.uasset" 680
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Audio/Smoke01_Cue.uasset" 681
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Audio/Smoke01.uasset" 682
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Audio/Light02_Cue.uasset" 683
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Audio/Light02.uasset" 684
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Audio/Light01_Cue.uasset" 685
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Audio/Light01.uasset" 686
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Audio/Fire_Sparks01_Cue.uasset" 687
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Audio/Fire_Sparks01.uasset" 688
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Audio/Fire01_Cue.uasset" 689
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Audio/Fire01.uasset" 690
+"C:/Users/Matthew/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/3/STATICMESH_46A8778361B442A9523C54440EA1E9D_8C68575CEF434CA8A9E1DA4AED8A47BB_C5__6F02AAEA7321B435B0F450AAA7EC3296CD6EB796.udd" 691
+"C:/Users/Matthew/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/3/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_0F29F7614FDCF5CF41FFC9BDB5B3C5E__E661A839355D7C1FA7E0A71416C1AC7A25470E4F.udd" 692
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Textures/Pointman_Jet_Prototype_1_outUV.uasset" 693
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Materials/M_Concrete_Poured.uasset" 694
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Concrete_Poured_D.uasset" 695
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Concrete_Poured_N.uasset" 696
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Shapes/Shape_Pipe_90.uasset" 697
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Shapes/Shape_Pipe_180.uasset" 698
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Shapes/Shape_Pipe.uasset" 699
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Shapes/Shape_NarrowCapsule.uasset" 700
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Shapes/Shape_Cylinder.uasset" 701
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Shapes/Shape_Cube.uasset" 702
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Shapes/Shape_Cone.uasset" 703
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Props/Materials/M_TableRound.uasset" 704
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_TableRound_M.uasset" 705
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_TableRound_N.uasset" 706
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Materials/M_Brick_Cut_Stone.uasset" 707
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 708
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 709
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Brick_Clay_Old_D.uasset" 710
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Particles/Materials/m_flare_01.uasset" 711
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 712
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Materials/M_Brick_Clay_New.uasset" 713
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Brick_Clay_New_D.uasset" 714
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Brick_Clay_New_M.uasset" 715
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Brick_Clay_New_N.uasset" 716
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Maps/StarterMap.umap" 717
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 718
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Particles/P_Fire.uasset" 719
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Particles/Materials/M_Fire_SubUV.uasset" 720
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Fire_SubUV.uasset" 721
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Fire_Tiled_D.uasset" 722
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Particles/Materials/M_Radial_Gradient.uasset" 723
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 724
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Particles/Materials/M_smoke_subUV.uasset" 725
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Smoke_SubUV.uasset" 726
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Smoke_Tiled_D.uasset" 727
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 728
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Particles/P_Smoke.uasset" 729
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 730
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Particles/P_Sparks.uasset" 731
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 732
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 733
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 734
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 735
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 736
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 737
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 738
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 739
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 740
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Blueprints/Blueprint_CeilingLight.uasset" 741
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Blueprints/Blueprint_WallSconce.uasset" 742
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Materials/M_Brick_Clay_Beveled.uasset" 743
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 744
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 745
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 746
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Materials/M_Brick_Clay_Old.uasset" 747
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Brick_Clay_Old_N.uasset" 748
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Materials/M_Brick_Hewn_Stone.uasset" 749
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 750
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 751
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 752
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 753
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Ceramic_Tile_M.uasset" 754
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Ceramic_Tile_N.uasset" 755
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 756
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Materials/M_CobbleStone_Pebble.uasset" 757
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 758
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 759
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Materials/M_CobbleStone_Rough.uasset" 760
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_CobbleStone_Rough_D.uasset" 761
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_CobbleStone_Rough_N.uasset" 762
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Materials/M_CobbleStone_Smooth.uasset" 763
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 764
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 765
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 766
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Materials/M_Concrete_Grime.uasset" 767
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Concrete_Grime_D.uasset" 768
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Metal_Rust_N.uasset" 769
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Materials/M_Concrete_Panels.uasset" 770
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Concrete_Panels_D.uasset" 771
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Concrete_Panels_N.uasset" 772
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Materials/M_Concrete_Tiles.uasset" 773
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Concrete_Tiles_D.uasset" 774
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Concrete_Tiles_M.uasset" 775
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Concrete_Tiles_N.uasset" 776
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Materials/M_Ground_Grass.uasset" 777
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Ground_Grass_D.uasset" 778
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Ground_Grass_N.uasset" 779
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Materials/M_Ground_Gravel.uasset" 780
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Ground_Gravel_D.uasset" 781
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Ground_Gravel_N.uasset" 782
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Materials/M_Ground_Moss.uasset" 783
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_ground_Moss_D.uasset" 784
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Ground_Moss_N.uasset" 785
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 786
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_MacroVariation.uasset" 787
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Materials/M_Metal_Burnished_Steel.uasset" 788
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Metal_Aluminum_D.uasset" 789
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Metal_Gold_N.uasset" 790
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Materials/M_Metal_Chrome.uasset" 791
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Materials/M_Metal_Copper.uasset" 792
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Metal_Copper_D.uasset" 793
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Materials/M_Metal_Gold.uasset" 794
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Metal_Gold_D.uasset" 795
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Materials/M_Metal_Rust.uasset" 796
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Materials/M_Metal_Steel.uasset" 797
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Metal_Steel_D.uasset" 798
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Metal_Steel_N.uasset" 799
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Materials/M_Rock_Basalt.uasset" 800
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Rock_Basalt_D.uasset" 801
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Rock_Basalt_N.uasset" 802
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Materials/M_Rock_Marble_Polished.uasset" 803
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Materials/M_Rock_Sandstone.uasset" 804
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Rock_Sandstone_D.uasset" 805
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Rock_Sandstone_N.uasset" 806
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Materials/M_Rock_Slate.uasset" 807
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Rock_Slate_D.uasset" 808
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Rock_Slate_N.uasset" 809
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Materials/M_Tech_Checker_Dot.uasset" 810
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Single_Tile_N.uasset" 811
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Tech_Dot_M.uasset" 812
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Tech_Dot_N.uasset" 813
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Materials/M_Tech_Hex_Tile.uasset" 814
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 815
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 816
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 817
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Materials/M_Tech_Panel.uasset" 818
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Tech_Panel_M.uasset" 819
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Tech_Panel_N.uasset" 820
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Materials/M_Water_Lake.uasset" 821
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Water_N.uasset" 822
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Materials/M_Water_Ocean.uasset" 823
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Water_M.uasset" 824
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 825
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Materials/M_Wood_Oak.uasset" 826
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Wood_Oak_D.uasset" 827
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Wood_Oak_N.uasset" 828
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Materials/M_Wood_Pine.uasset" 829
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Wood_Pine_D.uasset" 830
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Wood_Pine_N.uasset" 831
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Materials/M_Wood_Walnut.uasset" 832
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Wood_Walnut_D.uasset" 833
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Wood_Walnut_N.uasset" 834
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Particles/P_Ambient_Dust.uasset" 835
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Particles/Materials/M_Dust_Particle.uasset" 836
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Dust_Particle_D.uasset" 837
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Props/SM_PillarFrame300.uasset" 838
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Props/SM_Statue.uasset" 839
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Props/Materials/M_Statue.uasset" 840
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Statue_M.uasset" 841
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Statue_N.uasset" 842
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Props/Materials/M_StatueGlass.uasset" 843
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Props/SM_TableRound.uasset" 844
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Props/SM_WindowFrame.uasset" 845
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Shapes/Shape_QuadPyramid.uasset" 846
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Shapes/Shape_Sphere.uasset" 847
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 848
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 849
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 850
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 851
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 852
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 853
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 854
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 855
+"../../../Engine/Content/Maps/Entry.umap" 856
+"../../../Engine/Content/EngineMaterials/DefaultNormal.uasset" 857
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" 858
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 859
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 860
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Meshes/CubeMaterialOverride.uasset" 861
+"C:/Users/Matthew/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/8/4/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_20F4F1B74B83F5BF73219581AD95930A__1_0_13123_0.udd" 862
+"C:/Users/Matthew/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/8/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_7B6910DF41DD37755365E48A64E886DE__1_0_13123_0.udd" 863
+"C:/Users/Matthew/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/1/REFL_ENC_96DFC022836B48889143E9DF484C3296_DE9936FD4A805C2765897295B3CD7B93.udd" 864
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/NewWidgetBlueprint.uasset" 865
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MainMenu.uasset" 866
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 867
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 868
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 869
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Props/SM_Stairs.uasset" 870
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Props/SM_Shelf.uasset" 871
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Props/Materials/M_Shelf.uasset" 872
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Shelf_M.uasset" 873
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Shelf_N.uasset" 874
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Props/SM_Rock.uasset" 875
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Props/Materials/M_Rock.uasset" 876
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_RockMesh_M.uasset" 877
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_RockMesh_N.uasset" 878
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Particles/Materials/M_radial_ramp.uasset" 879
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 880
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 881
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Particles/P_Explosion.uasset" 882
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Particles/Materials/M_explosion_subUV.uasset" 883
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Explosion_SubUV.uasset" 884
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Textures/Pointman_Jet_Prototype_1.uasset" 885
+"C:/Users/Matthew/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/0/STATICMESH_46A8778361B442A9523C54440EA1E9D_8C68575CEF434CA8A9E1DA4AED8A47BB_BA__1DAB15F76432CC81A0850B7E375D39F93DE478CE.udd" 886
+"C:/Users/Matthew/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/6/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_935DFFF34E2D6DED01A29099FDF3FBD__0A02DDCFB95520274402DF1F3541B7F72FA4212A.udd" 887
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/Textures/heightmap.uasset" 888
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset" 889
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Shapes/Shape_Torus.uasset" 890
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Shapes/Shape_Plane.uasset" 891
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 892
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 893
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Gradinet_01.uasset" 894
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Shapes/Shape_Wedge_A.uasset" 895
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Shapes/Shape_Tube.uasset" 896
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Shapes/Shape_TriPyramid.uasset" 897
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Shapes/Shape_Trim_90_Out.uasset" 898
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Shapes/Shape_Trim_90_In.uasset" 899
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Shapes/Shape_Trim.uasset" 900
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 901
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Detail_Rocky_N.uasset" 902
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 903
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Shapes/Shape_Wedge_B.uasset" 904
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 905
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Shapes/Shape_WideCapsule.uasset" 906
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset" 907
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 908
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Maps/Minimal_Default.umap" 909
+"../../../../../../Users/Matthew/Documents/Unreal Projects/Pointman/Content/MobileStarterContent/Textures/T_Perlin_Noise_M.uasset" 910
+"..\..\..\Engine\Content\Internationalization\icudt53l\windowsZones.res" 911
+"..\..\..\Engine\Content\Internationalization\icudt53l\zoneinfo64.res" 912
+"..\..\..\Engine\Content\Internationalization\icudt53l\keyTypeData.res" 913
+"..\..\..\Engine\Content\Internationalization\icudt53l\timezoneTypes.res" 914
+"..\..\..\Engine\Content\Internationalization\icudt53l\supplementalData.res" 915
+"..\..\..\Engine\Content\Internationalization\icudt53l\likelySubtags.res" 916
