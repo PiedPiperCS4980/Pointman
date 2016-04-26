@@ -1,0 +1,21 @@
+{
+	"FileVersion" : 3,
+
+	"FriendlyName" : "SimpleHMDX",
+	"Version" : 1,
+	"VersionName" : "1.0",
+	"CreatedBy" : "Epic Games, Inc.",
+	"CreatedByURL" : "http://epicgames.com",
+	"EngineVersion" : "4.2.0",
+	"Description" : "SimpleHMD is a sample of a basic stereo HMD implementation",
+	"Category" : "Virtual Reality",
+	"EnabledByDefault" : false,
+
+	"Modules" :
+	[
+		{
+			"Name" : "SimpleHMD",
+			"Type" : "Runtime"
+		}
+	]
+}
